@@ -2,14 +2,15 @@
 
 A custom crypto portfolio dashboard built for @testuser_crypto.
 
-## Getting Started
+## Live Demo
 
-```bash
-npm install
-npm run dev
-```
+Visit: https://xrpcloud-product-[name].vercel.app
 
-Open http://localhost:3000 to view the dashboard.
+## Built With
+
+- Pure HTML/CSS
+- No dependencies
+- Static site (fast, secure)
 
 ---
 
